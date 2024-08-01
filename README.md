@@ -1,6 +1,5 @@
 # Keylogger-Project
 This Python script demonstrates basic keylogging functionality. 
-
 It captures keystrokes and appends them to a log file.
 
 Usage:
