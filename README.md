@@ -4,10 +4,10 @@ It captures keystrokes and appends them to a log file.
 
 Usage:
 
-Ensure you have pynput installed: pip install pynput.
+1)Ensure you have pynput installed: pip install pynput.
 
-Run the script.
+2)Run the script.
 
-Keystrokes will be logged to a file named log.txt.
+3)Keystrokes will be logged to a file named log.txt.
 
 Note: This script is a basic example and lacks features like stealth mode or encryption. Use it responsibly.
